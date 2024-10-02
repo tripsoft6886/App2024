@@ -151,7 +151,7 @@ video.unrulymedia.com, 689559416, RESELLER
 rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
 smaato.com, 1100050739, RESELLER, 07bcf65f187117b4
  
-
+facebook.com, 549285922282293, DIRECT, c3e20eee3f780d68
 
 applovin.com, c8b7d856f4e4e44847b84d6dd2d7dcec, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
