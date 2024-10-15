@@ -26,6 +26,7 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 
 google.com, pub-5904408074441373, DIRECT, f08c47fec0942fa0
+facebook.com, 549285922282293, DIRECT, c3e20eee3f780d68
 
 pangleglobal.com, 69708, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
