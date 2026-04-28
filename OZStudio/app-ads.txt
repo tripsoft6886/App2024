@@ -1,4 +1,5 @@
 applovin.com, c8b7d856f4e4e44847b84d6dd2d7dcec, DIRECT
+vungle.com, 69ba242d4bae0d5981bf9f04, DIRECT, c107d686becd2d77
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 gamaigroup.com, 423056, RESELLER
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
