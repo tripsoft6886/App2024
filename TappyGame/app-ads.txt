@@ -4,6 +4,8 @@ facebook.com, 549285922282293, DIRECT, c3e20eee3f780d68
 facebook.com, 717312789206994, DIRECT, c3e20eee3f780d68
 facebook.com, 157517135307120, DIRECT, c3e20eee3f780d68
 
+
+vungle.com, 69ba242d4bae0d5981bf9f04, DIRECT, c107d686becd2d77
 applovin.com, 4e3009689efbf0d8d3853664322962e3, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
